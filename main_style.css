@@ -1,5 +1,8 @@
 .topBar {
-    font-family:Calibri;
     height: 10%;
     padding: 40px;
+}
+
+h1 {
+    font-family:Calibri;
 }
