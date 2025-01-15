@@ -1,6 +1,11 @@
 .topBar {
     height: 10%;
+    width:30%;
     padding: 15px;
+}
+
+.ProjectPage {
+    float: right;
 }
 
 body {
