@@ -4,6 +4,9 @@
     padding: 15px;
 }
 
+.nameHeading {
+    float: left;
+}
 .ProjectPage {
     float: right;
 }
